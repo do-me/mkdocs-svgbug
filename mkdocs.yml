@@ -1,0 +1,6 @@
+site_name: My Docs
+theme:
+  name: material
+  custom_dir: docs/theme_override_home/
+  icon:  # from .icons path. Add to theme override for custom logo.
+    logo: briefkasten  # top left header logo
